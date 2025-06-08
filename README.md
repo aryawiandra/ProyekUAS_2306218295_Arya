@@ -17,3 +17,5 @@ Hasil transformasi disimpan dalam file CSV untuk memudahkan visualisasi spektrum
 
 **Catatan**:  
 Jika ingin menganalisis data lain, ganti isi array `x[]` pada program.
+
+Link YouTube: https://youtu.be/x-dSoKobquc
